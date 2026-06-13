@@ -292,11 +292,8 @@ This curriculum solves all three. It's curated from the best free content — wr
 |---|---|
 | [harish303118/Tech-AI-Product-Manager-Roadmap](https://github.com/harish303118/Tech-AI-Product-Manager-Roadmap) | 7-phase PM + AI PM roadmap with free video playlists curated per phase |
 | [codezelaca/pm-ba-lifecycle](https://github.com/codezelaca/pm-ba-lifecycle) | Full PM/BA training program: 7 modules, case study, templates, portfolio guide |
-| [antonscap/product-mastery](https://github.com/antonioscapellato/product-management-guide) | Complete PM guide deployed at pm.scapellato.dev — frameworks, templates, career advice |
-| [jessicaxafranski/learn_about_product](https://github.com/jessicaxafranski/learn_about_product) | Structured notes on strategy, metrics, AI, technical concepts |
 | [nicolaerusan/product-curriculum](https://github.com/nicolaerusan/product-curriculum) | Resources organized by 3 facets: Design, Code, Business/People |
 | [ProductHired/open-product-management](https://github.com/tron1991/open-product-management) | Curated list of PM frameworks, interviews, case studies, communities, and resources |
-| [moezzelrgal/Product-Owner-Roadmap](https://github.com/moezzelrgal/Product-Owner-Roadmap) | Product Owner focused: agile, backlog, stakeholder mgmt, metrics |
 | [TeneikaAskew/productmanagementroadmap](https://github.com/TeneikaAskew/productmanagementroadmap) | Study plan mapping free courses from edX, Coursera, Product School |
 
 ---
